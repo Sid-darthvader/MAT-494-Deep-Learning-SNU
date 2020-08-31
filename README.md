@@ -1,5 +1,5 @@
 # MAT-494-Deep-Learning-SNU
-Lab sessions taken by me for MAT-494-Deep Learning (Monsoon-2020) at Shiv Nadar University, India. 
+Lab sessions taken by me as a Teaching Assistant for MAT-494-Deep Learning (Monsoon-2020) at Shiv Nadar University, India. 
 
 ### [**Lab-1: ML Recap-I: Regression and Linear Models**](https://github.com/Sid-darthvader/MAT-494-Deep-Learning-SNU/tree/master/Lab-1_22-08)
 Demonstrated solving a real world Business problem by construction of different types of Linear Models starting from Univariate Linear, Quadratic, Cubic models and then moved on to adding some interaction terms before finally settling upon a Multiple Linear Regression Model. Commonly used metrics to judge a Regression models performance were also discussed.    
