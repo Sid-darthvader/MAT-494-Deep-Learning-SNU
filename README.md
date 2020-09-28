@@ -17,6 +17,7 @@ Important aspects of buidling good predictive models such as Exploratory Data An
 The two Hotel Booking datasets of Resort and City Hotels were merged into a single dataset. It was then used to demonstrate two tasks:-
 - *Classification: To predict whether a new user would could cancel his booking or not*
 - *Regression: To predict the price of a booked Hotel room on a particular day.*
+
 Findings from EDA and newly engineered features from the previous lab were used to build complicated Neural Network architectures using the *neuralnet* package in R. The focus of this lab was more on building better ANNs with correct choices of layers, neurons, activation functions and other hyperparameters.  
 
 ### [Lab-6: General Regression Neural Networks (GRNNs)](https://github.com/Sid-darthvader/MAT-494-Deep-Learning-SNU/tree/master/Lab-6_26_09)
