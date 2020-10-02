@@ -22,3 +22,7 @@ Findings from EDA and newly engineered features from the previous lab were used 
 
 ### [Lab-6: General Regression Neural Networks (GRNNs)](https://github.com/Sid-darthvader/MAT-494-Deep-Learning-SNU/tree/master/Lab-6_26_09)
 The original research paper on [General Regression Neural Networks (GRNNs)](https://ieeexplore.ieee.org/document/97934), *"a one-shot learning algorithm which does not assume any functional form for the underlying regression surface and solves the problem of getting stuck at local minimas"* was explained followed by its implementation in R. The use of GRNNs was motivated by taking a very small dataset comprising of merely 71 observations in order to predict the *Bodyfat* of a person. It was shown that in scenarios where traditional ANNs and ML methods don't perform well, GRNNs can be used to perform regression tasks even with extremely small sample sizes.  
+
+### [Lab-6: Probabilistic Neural Networks (PNNs)](https://github.com/Sid-darthvader/MAT-494-Deep-Learning-SNU/tree/master/Lab-7_03-10)
+Gave a summary of the original paper on [Probabilistic Neural Networks (PNNs)](https://wiki.eecs.yorku.ca/course_archive/2013-14/F/4403/_media/specht1990pnn.pdf). The implementation of PNNs was covered in R using the PIMAINDIANS-DIABETES dataset to build a binary classifier for predicting whether a pregnant woman is diabetic or not.
+  
