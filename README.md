@@ -32,7 +32,7 @@ Gave a summary of the original paper on [Probabilistic Neural Networks (PNNs)](h
 
 
 ### [Lab-9: Recurrent Neural Networks](https://github.com/Sid-darthvader/MAT-494-Deep-Learning-SNU/tree/master/Lab-9/Elman_JordanRNNs)
-Two types of Recurrent Neural Networks that work well even with less data viz. *Elman RNNs & Jordan RNNs* were implemented in R to forecast the daily number of deaths in the UK from lung diseases.
+Two types of Recurrent Neural Networks that work well even with less data viz. [*Elman RNNs & Jordan RNNs*](https://en.wikipedia.org/wiki/Recurrent_neural_network) were implemented in R to forecast the daily number of deaths in the UK from lung diseases.
 
 ### [Lab-10: Non-Linear Dimensionality Reduction](https://github.com/Sid-darthvader/MAT-494-Deep-Learning-SNU/tree/master/Lab-10)
 Limitations of Linear Dimensionality Reduction methods such as PCA were discussed and the use of Non-Linear Dimensionality Reduction was motivated. The theory behind 2 such methods- *Autoencoders* & *Stacked Autoencoders* was discussed and their implementation in R was demonstrated using the [Abalone dataset](http://archive.ics.uci.edu/ml/datasets/Abalone).  
