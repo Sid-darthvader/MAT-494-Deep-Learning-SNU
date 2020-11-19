@@ -25,4 +25,14 @@ The original research paper on [General Regression Neural Networks (GRNNs)](http
 
 ### [Lab-7: Probabilistic Neural Networks (PNNs)](https://github.com/Sid-darthvader/MAT-494-Deep-Learning-SNU/tree/master/Lab-7_03-10)
 Gave a summary of the original paper on [Probabilistic Neural Networks (PNNs)](https://wiki.eecs.yorku.ca/course_archive/2013-14/F/4403/_media/specht1990pnn.pdf). The implementation of PNNs was covered in R using the PIMAINDIANS-DIABETES dataset to build a binary classifier for predicting whether a pregnant woman is diabetic or not.
-  
+
+### [Lab-8: Machine Learning for Time Series & Forecasting](https://github.com/Sid-darthvader/MAT-494-Deep-Learning-SNU/tree/master/Lab-7_03-10)
+- Gave a quick summary of the theory behind Time Series & Forecasting with it's real world applications (see presentation). Traditional Forecasting methods like *AR,MA,ARMA,ARIMA,ARCH & GARCH* were explained with their implementations on a univariate time-series data in python.
+- Explained how engineer new features and convert traditional time series forecasting problems into supervised Machine Learning problems. The results obtained by the models built in the previous step were now compared with ML models like Linear Regression,XGBoost, Random Forests etc.
+
+
+### [Lab-9: Recurrent Neural Networks](https://github.com/Sid-darthvader/MAT-494-Deep-Learning-SNU/tree/master/Lab-7_03-10)
+Two types of Recurrent Neural Networks that work well even with less data viz. *Elman RNNs & Jordan RNNs* were implemented in R to forecast the daily number of deaths in the UK from lung diseases.
+
+### [Lab-10: Non-Linear Dimensionality Reduction](https://github.com/Sid-darthvader/MAT-494-Deep-Learning-SNU/tree/master/Lab-7_03-10)
+Limitations of Linear Dimensionality Reduction methods such as PCA were discussed and the use of Non-Linear Dimensionality Reduction was motivated. The theory behind 2 such methods- *Autoencoders* & *Stacked Autoencoders* was discussed and their implementation in R was demonstrated using the Abalone dataset.  
