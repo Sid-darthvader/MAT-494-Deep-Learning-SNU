@@ -36,3 +36,13 @@ Two types of Recurrent Neural Networks that work well even with less data viz. [
 
 ### [Lab-10: Non-Linear Dimensionality Reduction](https://github.com/Sid-darthvader/MAT-494-Deep-Learning-SNU/tree/master/Lab-10)
 Limitations of Linear Dimensionality Reduction methods such as PCA were discussed and the use of Non-Linear Dimensionality Reduction was motivated. The theory behind 2 such methods- *Autoencoders* & *Stacked Autoencoders* was discussed and their implementation in R was demonstrated using the [Abalone dataset](http://archive.ics.uci.edu/ml/datasets/Abalone).  
+
+## Student Projects:-
+
+- [Anomaly Detection in ECGs using LSTM Autoencoders](https://github.com/abhisht51/Anomaly-Detection-Autoencoders) by Bhavya Jain & Abhisht Singh
+- Generalizability of CNNs in classifying chest XRAY images by Narra Pratap
+- [Deep Learning for predicting Bank Loan Term Deposit Subscription](https://github.com/prekshadhoot/Bank-Marketing-Analysis) by Samyak Nayak, Preksha Dhoot & Sneh Bhandari
+- [Predicting Early Stage Diabetes Risk using Deep Learning](https://github.com/kartikeypro/Early-Stage-Risk-Diabetes-Using-Deep-Learning) by Kartikeya Garg & Mansi Goel
+- [Forecasting Yes Bank Stock Prices using Feed Forward Neural Networks](https://github.com/Sid-darthvader/MAT-494-Deep-Learning-SNU/blob/master/Misc/Yes_Bank_Stock_Price_Prediction.pdf) by Puneet Pandey
+- [Identifying  Customer Churn in Banking using Deep Learning](https://github.com/IshaTyagi721/Deep-Learning-Project/) by Isha Tyagi & Sanskriti Agarwal
+- [Modelling Airline Passenger Satisfaction levels using Deep Learning](https://drive.google.com/drive/folders/1o7gY4Lx_r7i-fEv7ihp7Uduqj1MINL4D?usp=gmail) by Abhinav Keshri
